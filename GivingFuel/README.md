@@ -13,7 +13,6 @@ To do this, we use the "raw html" component in GivingFuel:
 
 
 ```html
-<script src="//host.com/givingfuel/awesomplete.min.js" async></script>
 <script type="text/javascript">
   var fdn_script = document.createElement('script');
   fdn_script.type = "text/javascript";
