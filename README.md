@@ -6,7 +6,7 @@ To expand on the features of the built in functionality of GivingFuel, I've crea
 ## Important Disclaimer
 Before using any extensions, please note that GivingFuel's platform is hosted in a secure, PCI compliant environment. I highly suggest any external code (including these extensions) be hosted in a similar secure environment.
 
-Introducing third-party and/or offsite programming onto a GivingFuel page introduces risks:
+Introducing third-party and/or offsite programming onto a GivingFuel page presents risks:
 1. A hacked third-party host could lead to malicious scripts that could be used to steal CC info.
 2. A third-party host that goes offline may lead to extensions not working and breaking components on the page.
 
