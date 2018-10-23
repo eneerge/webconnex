@@ -4,7 +4,7 @@
 The first step is to copy the files to a host.
 
 ### Step 2
-To configure the campaign page to pull in the "bootstrapper" script (default.php).
+To configure the campaign page to pull in extensions, we need to add some code to reference the third-party extensions.
 
 To do this, we use the "raw html" component in GivingFuel:
 
@@ -24,3 +24,5 @@ To do this, we use the "raw html" component in GivingFuel:
   document.head.appendChild(fdn_script);
 </script>
 ```
+
+This will create a <script> element on the page that pulls in the third party code.
