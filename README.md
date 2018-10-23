@@ -16,3 +16,6 @@ It is recommended that you conduct an independent audit before deploying any cod
 I primarily write these extensions for the benefit of my organization. I attempt to write code as generic as possible so that it can be reused. However, it's certainly possible you may have trouble implementing for your site.
 
 I am not interested in developing a "framework" or using X design methodology. I am open to suggestions, but I prefer keeping the code simple and easy to copy and paste as needed.  Also note that I may be wrong in my approach to "keeping it simple" in some cases, so definitely correct me.
+
+## Instructions
+Navigate into the "GivingFuel" folder to see more info.
