@@ -24,4 +24,4 @@ To do this, we use the "raw html" component in GivingFuel:
 </script>
 ```
 
-This will create a <script> element on the page that pulls in the third party code.
+This will dynamically create a <script> element on the page that pulls in the third party code and also pass in any URL GET parameters to the extension code.
